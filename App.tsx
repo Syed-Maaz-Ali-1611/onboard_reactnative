@@ -110,6 +110,7 @@ const styles = StyleSheet.create({
     marginTop: 8,
     fontSize: 18,
     fontWeight: '400',
+    fontFamily: 'DancingScript-Regular',
   },
   highlight: {
     fontWeight: '700',
